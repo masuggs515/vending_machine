@@ -1,0 +1,31 @@
+.CandyBar{
+    background: url(CandyBar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.CandyBar h1{
+    margin: 0;
+    margin-bottom: 30vh;
+    color: white;
+}
+
+.CandyBar a{
+    text-decoration: none;
+}
+
+.CandyBar a h1{
+    color: white;
+}
+
+.CandyBar a h1:hover{
+    color: grey;
+}

@@ -1,0 +1,27 @@
+.Soda{
+    background: url(soda.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.Soda h1{
+    margin: 0;
+    margin-bottom: 30vh;
+}
+
+.Soda a{
+    text-decoration: none;
+    color: black;
+}
+
+.Soda a:hover{
+    color: grey;
+}

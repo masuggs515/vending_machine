@@ -1,0 +1,27 @@
+.Chips{
+    background: url(chips.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.Chips h1{
+    margin: 0;
+    margin-bottom: 30vh;
+}
+
+.Chips a{
+    text-decoration: none;
+    color: black;
+}
+
+.Chips a:hover{
+    color: grey;
+}

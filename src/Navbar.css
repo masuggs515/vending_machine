@@ -1,0 +1,18 @@
+.Navbar{
+    background-color: darkgray;
+    color: white;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.Navbar a{
+    padding: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar a.active{
+    background-color: black;
+}
